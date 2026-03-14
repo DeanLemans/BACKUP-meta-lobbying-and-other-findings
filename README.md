@@ -1,5 +1,7 @@
-# Meta Platforms: Lobbying, Dark Money, and the App Store Accountability Act
+#Website: https://tboteproject.com
+#Decentralized Repository: https://tboteproject.com/git/hekate/attestation-findings
 
+# Meta Platforms: Lobbying, Dark Money, and the App Store Accountability Act
 An open-source intelligence investigation into how Meta Platforms built a multi-channel influence operation to pass age verification laws that shift regulatory burden from social media platforms onto Apple and Google's app stores.
 
 Every finding in this repository is sourced from public records: IRS 990 filings, Senate LD-2 lobbying disclosures, state lobbying registrations, campaign finance databases, corporate registries, WHOIS/DNS records, Wayback Machine archives, and investigative journalism.
@@ -311,7 +313,7 @@ Each finding below is documented with sources in the corresponding analysis file
 
 ## Methodology and Tools
 
-This investigation used Claude Code (Anthropic's CLI tool, running Claude Opus) was used as a research assistant for:
+This investigation was conducted by a human researcher who directed all research decisions, selected sources, evaluated findings, and wrote the public-facing posts. Claude Code (Anthropic's CLI tool, running Claude Opus) was used as a research assistant for:
 
 - Bulk data processing: parsing 4,433 IRS Schedule I grant records, 59,736 DAF recipients, 132MB of Colorado TRACER campaign finance data, and IRS Business Master File extracts covering all US tax-exempt organizations
 - Cross-referencing findings across 24 analysis files and identifying patterns that span multiple research threads
