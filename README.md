@@ -372,3 +372,9 @@ Verify any finding using the source URLs and database identifiers provided throu
 ## License
 
 OSINT research product. All findings based on public records. Source data cited throughout.
+
+## Donate
+
+Monero: 451CjP6mgu12yvmDLxLduYYw5Py3Nnb91RwoRYCnhMwhGKM5hxYSaAWapq7CdRQz3qRJbUqqrnYBzW7L4aUt7nhbAYGmLSX
+
+PumpUp: 7h93HKTvc5ro9oJCWdev9ae4X3GoRsNjmvnav11Lpump 

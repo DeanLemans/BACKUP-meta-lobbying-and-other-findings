@@ -7,12 +7,12 @@
 
 ## CRITICAL DISTINCTION: Two Separate Model Bills
 
-A key finding of this investigation is that there are **two distinct model legislation frameworks** circulating at the state level, often conflated:
+Two distinct model legislation frameworks circulate at the state level, often conflated:
 
 1. **ICMEC's Digital Age Assurance Act (DAAA)** - Device/OS-level age verification
 2. **Digital Childhood Alliance's App Store Accountability Act (ASAA)** - App store-level age verification
 
-These are **different bills with different approaches**, though they overlap in goals. ICMEC is primarily behind the DAAA; the Digital Childhood Alliance (DCA) is primarily behind the ASAA. Meta funds the DCA and supports the ASAA approach.
+Different bills with different approaches, though they overlap in goals. ICMEC is primarily behind the DAAA; the Digital Childhood Alliance (DCA) is primarily behind the ASAA. Meta funds the DCA and supports the ASAA approach.
 
 ---
 
@@ -105,7 +105,7 @@ The App Store Accountability Act (ASAA) is a **separate template** from ICMEC's 
 | Burden on | App stores (Apple, Google) | OS manufacturers |
 | Scope | Mobile devices primarily | All computing devices |
 | Parental consent | Required for each download | Not primary mechanism |
-| Who benefits | Social media platforms (Meta) | Arguably more balanced |
+| Who benefits | Social media platforms (Meta) | More balanced |
 
 ### Federal bills:
 - **S.1586** (Sen. Mike Lee, R-UT) - ASAA template
@@ -133,7 +133,7 @@ ICMEC (EIN: 22-3630133) files Form 990 and publishes consolidated financial stat
 Charity Navigator profile: https://www.charitynavigator.org/ein/223630133
 
 ### Important nuance:
-While Meta donates to ICMEC, ICMEC's DAAA model is actually a **competitor** to Meta's preferred ASAA approach. The DAAA places burden on device/OS makers, while the ASAA places burden on app stores -- the approach Meta prefers because it shifts responsibility away from social media platforms. ICMEC and Meta are aligned on the goal of age verification but differ on mechanism.
+Meta donates to ICMEC, but ICMEC's DAAA model competes with Meta's preferred ASAA approach. The DAAA places burden on device/OS makers; the ASAA places burden on app stores, shifting responsibility away from social media platforms. ICMEC and Meta are aligned on the goal of age verification but differ on mechanism.
 
 ---
 
@@ -141,7 +141,7 @@ While Meta donates to ICMEC, ICMEC's DAAA model is actually a **competitor** to 
 
 ### No direct organizational relationship found
 
-Despite both working on age verification, ICMEC and the DCA appear to be **separate organizations with different approaches**:
+Despite both working on age verification, ICMEC and DCA are separate organizations with different approaches:
 
 - **ICMEC** promotes the DAAA (device-level)
 - **DCA** promotes the ASAA (app store-level)
@@ -152,7 +152,8 @@ No overlapping board members or staff were identified between the two organizati
 - **Founded by:** Melissa McKay (also founder of Digital Childhood Institute, DCI)
 - **Executive Director:** Casey Stefanski
 - **Senior Policy Advisor:** John Read (former 30-year DOJ Antitrust Division veteran)
-- **Structure:** 501(c)(4) nonprofit (does not disclose donors)
+- **EIN:** 33-2669790 (found 2026-03-16 via eintaxid.com). Delaware, 213 N Market St PMB 1039, Wilmington DE (same address as DCI)
+- **Structure:** 501(c)(4) nonprofit (does not disclose donors). Reports <$25K gross receipts (990-N filer) despite confirmed Meta funding.
 - **Coalition:** 140+ member organizations including Heritage Foundation, National Center on Sexual Exploitation, Institute for Family Studies
 - **Function:** Distributes ASAA model bill template to state legislators; provides talking points, social media graphics, outreach templates
 
@@ -207,14 +208,11 @@ According to Pluribus News and multiple Louisiana media outlets, the sequence wa
 - https://9to5mac.com/2024/09/03/meta-lobbied-for-child-safety-bill-to-blame-apple-but-apples-own-lobbying-got-it-off-the-hook/
 
 ### ICMEC's role in this specific episode:
-**No direct connection found.** The language brought to Carver by the Meta lobbyist was ASAA-style (app store-level) language, which aligns with the DCA template, NOT with ICMEC's DAAA device-level model. ICMEC's model legislation operates on a separate track.
+No direct connection found. The language brought to Carver by the Meta lobbyist was ASAA-style (app store-level), aligning with the DCA template, not with ICMEC's DAAA device-level model. ICMEC's model legislation operates on a separate track.
 
-### However, the broader pipeline works as follows:
-- Meta funds the DCA (confirmed but amounts undisclosed)
-- DCA distributes ASAA model bill templates to state legislators
-- Meta lobbyists independently pitch ASAA-aligned language to lawmakers (as in the Carver case)
-- ICMEC separately promotes its DAAA model through its own channels
-- Both approaches serve to deflect regulation away from social media platforms themselves
+### The Broader Pipeline
+
+Meta funds DCA (confirmed, amounts undisclosed). DCA distributes ASAA model bill templates to state legislators. Meta lobbyists independently pitch ASAA-aligned language to lawmakers (as in the Carver case). ICMEC separately promotes its DAAA model through its own channels. Both approaches deflect regulation away from social media platforms.
 
 ---
 
@@ -258,7 +256,7 @@ TRACK 2: DCA's ASAA (App Store-Level)
   → Enacted: UT, TX, LA, AL | Pending: KS, SD, OH + ~20 other states
 ```
 
-**Key finding:** ICMEC is NOT the source of the ASAA template language that Meta lobbyists distribute. The ASAA template comes from the Digital Childhood Alliance, which Meta funds. ICMEC promotes a competing device-level approach (DAAA). However, both organizations receive Meta funding, and both approaches serve to shift regulatory burden away from social media platforms.
+Key finding: ICMEC is not the source of the ASAA template language Meta lobbyists distribute. The ASAA template comes from the Digital Childhood Alliance, which Meta funds. ICMEC promotes a competing device-level approach (DAAA). Both organizations receive Meta funding, and both approaches shift regulatory burden away from social media platforms.
 
 ---
 
@@ -279,3 +277,4 @@ TRACK 2: DCA's ASAA (App Store-Level)
 - ICMEC Virginia presentation: https://studiesvirginiageneralassembly.s3.amazonaws.com/meeting_docs/documents/000/002/391/original/ICMEC_Age_Assurance.pdf
 - Alabama HB-161: https://www.digitalchildhoodalliance.org/alabama-unanimously-passes-hb-161-the-first-app-store-accountability-act-bill-of-2026/
 - ageverificationpolicy.org (ICMEC): https://www.ageverificationpolicy.org/daaa/
+

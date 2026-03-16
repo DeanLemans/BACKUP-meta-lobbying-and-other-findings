@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-Meta is not alone in supporting the App Store Accountability Act. Snap and X issued joint statements with Meta supporting ASAA bills in Utah, Texas, and South Dakota. Pinterest's CEO publicly endorsed the federal ASAA in December 2025. Snap's LD-2 filings confirm it lobbied on H.R. 3149/S. 1586 at the federal level. However, Meta remains the only company confirmed funding DCA, and the only company documented drafting bill language.
+Meta is not alone in supporting the App Store Accountability Act. Snap and X issued joint statements with Meta supporting ASAA bills in Utah, Texas, and South Dakota. Pinterest's CEO publicly endorsed the federal ASAA in December 2025. Snap's LD-2 filings confirm lobbying on H.R. 3149/S. 1586 at the federal level. Meta remains the only company confirmed funding DCA and the only company documented drafting bill language.
 
 ---
 
@@ -83,11 +83,13 @@ Actively opposing ASAA. Apple CEO Tim Cook personally lobbied Texas Gov. Abbott 
 
 Casey Stefanski confirmed under oath that **tech companies (plural)** fund DCA but refused to name them. Only Meta has been publicly confirmed as a funder (Bloomberg, July 2025; Deseret News, December 2025). No other company has been publicly identified as a DCA funder. The "founder's father" was identified as DCA's largest donor.
 
+**UPDATE (2026-03-16):** DCA EIN 33-2669790 found. "Digital Childhood Alliance Inc," Delaware, officer Melissa McKay. Tax year 2024: **gross receipts under $25,000** (990-N e-Postcard). The <$25K threshold proves that neither Meta's confirmed funding nor other tech company contributions flow through this EIN. Source: https://eintaxid.com/company/332669790-digital-childhood-alliance-inc/
+
 ---
 
 ## 4. Joint Statements and Coordinated Advocacy
 
-The Meta/Snap/X joint statements are significant because they demonstrate coordinated industry support for ASAA across social media competitors. All three benefit from the same structural logic: ASAA places age verification on app stores (Apple/Google), not on social media platforms.
+The Meta/Snap/X joint statements demonstrate coordinated industry support for ASAA across social media competitors. All three benefit from the same structural logic: ASAA places age verification on app stores (Apple/Google), not on social media platforms.
 
 | Date | Action | Companies |
 |------|--------|-----------|
@@ -117,7 +119,7 @@ The Meta/Snap/X joint statements are significant because they demonstrate coordi
 
 ## 6. The Strategic Logic
 
-Every confirmed ASAA supporter (Meta, Snap, X, Pinterest) is a social media platform or content platform that benefits from shifting age verification to the app store/OS layer. Every confirmed opponent (Apple, Google, Netflix) operates an app store or content distribution platform that would bear the compliance burden. The ASAA coalition is not a child safety coalition. It is a platform vs. distribution fight where social media companies align against app store operators.
+Every confirmed ASAA supporter (Meta, Snap, X, Pinterest) is a social media or content platform that benefits from shifting age verification to the app store/OS layer. Every confirmed opponent (Apple, Google, Netflix) operates an app store or content distribution platform that would bear the compliance burden. The ASAA coalition is not a child safety coalition. It is a platform vs. distribution fight: social media companies aligned against app store operators.
 
 ---
 
@@ -141,3 +143,4 @@ Every confirmed ASAA supporter (Meta, Snap, X, Pinterest) is a social media plat
 - Freezenet (Pinterest, Pornhub push for age verification): https://www.freezenet.ca/pinterest-pornhub-others-also-pushed-for-app-store-age-verification/
 - DCA (Alabama HB 161): https://www.digitalchildhoodalliance.org/alabama-unanimously-passes-hb-161-the-first-app-store-accountability-act-bill-of-2026/
 - Bloomberg Law (Developers worry about Texas compliance): https://news.bloomberglaw.com/privacy-and-data-security/developers-worry-about-compliance-with-texas-app-store-law
+

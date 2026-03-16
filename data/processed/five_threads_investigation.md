@@ -8,15 +8,15 @@
 
 ## Executive Summary
 
-Five parallel investigations yielded three major new findings:
+Five parallel investigations produced three major findings:
 
-1. **NCOSE has a confirmed 501(c)(4) affiliate** — "NCOSEAction" (EIN 88-1180705), IRS ruling May 2025, same address, same leadership. This entity could serve as DCA's fiscal sponsor.
+1. NCOSE has a confirmed 501(c)(4) affiliate: "NCOSEAction" (EIN 88-1180705), IRS ruling May 2025, same address, same leadership. A viable DCA fiscal sponsor.
 
-2. **Network for Good is a Donor Advised Fund, not a payment processor** — DCA is classified as a "Project" (not a nonprofit) in the system, and For Good explicitly limits grants to 501(c)(3) organizations. DCA's presence on the platform as a claimed c4 with no EIN raises potential DAF compliance issues.
+2. Network for Good is a Donor Advised Fund, not a payment processor. DCA is classified as a "Project" (not a nonprofit) in the system. For Good explicitly limits grants to 501(c)(3) organizations. DCA's presence on the platform as a claimed c4 raises DAF compliance issues.
 
-3. **A Meta lobbyist wrote HB-570's legislative language** — confirmed that Meta "brought legislative language" directly to sponsor Rep. Kim Carver, and the bill's key amendment battle was over whether to include app developers (Meta) alongside app stores (Apple/Google).
+3. A Meta lobbyist wrote HB-570's legislative language. Confirmed: Meta "brought legislative language" directly to sponsor Rep. Kim Carver. The bill's key amendment battle was over whether to include app developers (Meta) alongside app stores (Apple/Google).
 
-Additionally: STF's $46M non-grant spending is accounted for by lobbying ($31M), consulting ($13M), and advertising ($8.5M) with zero mentions of child safety or digital policy. Matt Ball's tech industry funding (8%) is distinctive but modest, with law firms (19.2%) being the dominant out-of-state pattern.
+STF's $46M non-grant spending breaks down to lobbying ($31M), consulting ($13M), and advertising ($8.5M) with zero mentions of child safety or digital policy. Matt Ball's tech industry funding (8%) is distinctive but modest; law firms (19.2%) are the dominant out-of-state pattern.
 
 ---
 
@@ -51,13 +51,13 @@ NCOSE's own website states: "NCOSEAction, a 501c(4) political action organizatio
 
 ### Implications for DCA Fiscal Sponsorship
 
-NCOSEAction (EIN 88-1180705) is a **newly created 501(c)(4) with the correct tax status to sponsor DCA's lobbying activities.** Key considerations:
+NCOSEAction (EIN 88-1180705) is a newly created 501(c)(4) with the correct tax status to sponsor DCA's lobbying activities. Key considerations:
 
-1. **Correct tax classification:** As a c4, NCOSEAction can host unlimited lobbying activities — unlike NCOSE (c3), which faces lobbying limits
-2. **Same leadership:** Marcel van der Watt leads both NCOSE and NCOSEAction. Dawn Hawkins (NCOSE CEO who chairs DCA) reports to van der Watt
-3. **Timing alignment:** NCOSEAction's IRS ruling (May 2025) aligns with DCA's operational timeline — DCA launched ~February 2025, and a c4 entity received IRS recognition three months later
-4. **Zero financial activity reported:** The 990-N filing requirement (≤$50K) and zero reported financials could mean: (a) NCOSEAction is dormant, (b) NCOSEAction's first filing hasn't been processed, or (c) DCA's revenue flows through a different entity
-5. **No website:** ncoseaction.org does not resolve, suggesting operations are conducted through NCOSE's main website or through DCA as the public-facing brand
+1. Correct tax classification. As a c4, NCOSEAction can host unlimited lobbying activities, unlike NCOSE (c3), which faces lobbying limits.
+2. Same leadership. Marcel van der Watt leads both NCOSE and NCOSEAction. Dawn Hawkins (NCOSE CEO who chairs DCA) reports to van der Watt.
+3. Timing alignment. NCOSEAction's IRS ruling (May 2025) aligns with DCA's operational timeline. DCA launched around February 2025; a c4 entity received IRS recognition three months later.
+4. Zero financial activity reported. The 990-N filing requirement (at or under $50K) and zero reported financials could mean NCOSEAction is dormant, its first filing hasn't been processed, or DCA's revenue flows through a different entity.
+5. No website. ncoseaction.org does not resolve. Operations are conducted through NCOSE's main website or through DCA as the public-facing brand.
 
 ### Assessment
 
@@ -72,7 +72,7 @@ NCOSEAction is now the **second-strongest fiscal sponsor candidate** after Sixte
 | Address proximity | 1828 L St NW | 1201 F St NW (same city) |
 | Operational history | Est. 2009, extensive | May 2025 (brand new) |
 
-The personnel overlap is far stronger with NCOSEAction, but STF has the financial infrastructure and documented sponsored project model. A **hybrid arrangement** is possible: Meta funds flow to STF (via NVF/Eichberg), STF contracts with NCOSEAction, and NCOSEAction operates DCA as a project.
+Personnel overlap is far stronger with NCOSEAction, but STF has the financial infrastructure and documented sponsored project model. A hybrid arrangement remains on the table: Meta funds flow to STF (via NVF/Eichberg), STF contracts with NCOSEAction, and NCOSEAction operates DCA as a project.
 
 ---
 
@@ -101,30 +101,25 @@ donation_form[targetable_type] = Project
 donation_form[targetable_id] = 258136
 ```
 
-DCA is classified as a **"Project"** in the NFG/Bonterra system (ID 258136), not as a standalone nonprofit organization. The page:
-- Displays **no EIN**
-- Contains **no tax-deductibility disclaimer**
-- Makes **no mention** of For Good as the donation recipient
-- Describes "legislative action" and "accountability campaigns" — c4 lobbying language
-- Says "Powered by Bonterra" (the for-profit tech company), not "Powered by For Good" (the c3 DAF)
+DCA is classified as a "Project" in the NFG/Bonterra system (ID 258136), not as a standalone nonprofit organization. The page displays no EIN, contains no tax-deductibility disclaimer, makes no mention of For Good as the donation recipient, describes "legislative action" and "accountability campaigns" (c4 lobbying language), and says "Powered by Bonterra" (the for-profit tech company), not "Powered by For Good" (the c3 DAF).
 
-### The Registration Paradox
+### The Registration Paradox — Partially Resolved
 
-For Good requires organizations to "Enter your organization's EIN" to register. DCA has **no known EIN**. This creates three possible scenarios:
+**UPDATE (2026-03-16):** DCA EIN 33-2669790 has been identified via eintaxid.com. The entity is "Digital Childhood Alliance Inc," registered in Delaware at 213 N Market Street PMB 1039, Wilmington, DE 19801 (same address as DCI). Officer: Melissa McKay. Tax year 2024. **Gross receipts under $25,000.** Filing: 990-N (e-Postcard).
+
+For Good requires organizations to "Enter your organization's EIN" to register. DCA now has a **confirmed EIN (33-2669790)**, which narrows the scenarios:
 
 | Scenario | Implication |
 |----------|------------|
-| DCA registered using DCI's EIN (39-3684798) | Misrepresentation — DCI is a c3, DCA is a claimed c4 |
-| DCA registered without an EIN via the "Project" pathway | The system allows non-EIN entities as "Projects" |
-| Someone at For Good/Bonterra manually set up the page | Bypassed standard registration requirements |
+| DCA registered using its own EIN (33-2669790) | Legitimate, but the <$25K gross receipts means donations through NFG are negligible |
+| DCA registered using DCI's EIN (39-3684798) | Still possible — misrepresentation if DCI's c3 EIN used for c4 activities |
+| The "Project" classification bypasses EIN validation | System design allows non-standard registrations regardless of EIN |
+
+**New question:** If DCA has its own EIN and is registered on For Good, why does it report <$25K gross receipts? Either (a) the donation page generates almost no revenue, (b) For Good donations flow to a different entity's EIN, or (c) the <$25K threshold is accurate because real funding comes directly from Meta and other sources, not through the NFG platform.
 
 ### Potential DAF Compliance Issue
 
-If donors giving on `digitalchildhoodalliance.networkforgood.com` receive a tax receipt from For Good (a c3) claiming their donation is tax-deductible, but the funds ultimately support DCA (a claimed c4 doing lobbying), this could constitute:
-
-1. **Improper tax deduction** — c4 contributions are generally not tax-deductible
-2. **DAF distribution violation** — For Good's c3 DAF granting to a non-c3 without expenditure responsibility
-3. **Donor misrepresentation** — donors may not know their "donation to DCA" is legally a donation to For Good's DAF
+If donors giving on `digitalchildhoodalliance.networkforgood.com` receive a tax receipt from For Good (a c3) claiming their donation is tax-deductible, but the funds ultimately support DCA (a claimed c4 doing lobbying), three compliance issues arise. First, improper tax deduction: c4 contributions are generally not tax-deductible. Second, DAF distribution violation: For Good's c3 DAF granting to a non-c3 without expenditure responsibility. Third, donor misrepresentation: donors may not know their "donation to DCA" is legally a donation to For Good's DAF.
 
 ### For Good's Financial Scale
 
@@ -136,7 +131,7 @@ If donors giving on `digitalchildhoodalliance.networkforgood.com` receive a tax 
 | Program expense ratio | 98.21% (pass-through model) |
 | Charity Navigator | 2 stars ("Needs Improvement") |
 
-For Good processes hundreds of millions in donations annually. DCA's small-dollar fundraising ($5-$50 suggested amounts) would be invisible within this volume.
+For Good processes hundreds of millions in donations annually. DCA's small-dollar fundraising ($5-$50 suggested amounts) is invisible within that volume.
 
 ### Corporate Structure Note
 
@@ -198,7 +193,7 @@ The Health program spent $10.1M with **zero grants** — all direct operational 
 
 ### Assessment
 
-The $46M gap is fully accounted for by STF's direct advocacy operations — lobbying, consulting, and advertising on progressive civic engagement, voting rights, healthcare, and environmental issues. **There is no evidence of child safety, digital policy, or age verification spending anywhere in the filing.** However, the $31M in lobbying fees and $13.1M in "other professional fees" are reported only in aggregate — individual contract recipients are listed but their specific lobbying topics are not disclosed. DCA-related spending could theoretically be buried within these line items, but there is no affirmative evidence for this.
+The $46M gap is fully accounted for by STF's direct advocacy operations: lobbying, consulting, and advertising on progressive civic engagement, voting rights, healthcare, and environmental issues. No evidence of child safety, digital policy, or age verification spending anywhere in the filing. The $31M in lobbying fees and $13.1M in "other professional fees" are reported only in aggregate. Individual contract recipients are listed but their specific lobbying topics are not disclosed. DCA-related spending could be buried within these line items, but no affirmative evidence supports that.
 
 ---
 
@@ -220,13 +215,13 @@ Six additional firms remain unidentified — Louisiana Board of Ethics interacti
 
 ### Critical Finding: Meta Drafted the Bill Language
 
-Investigative reporting confirmed that **a Meta lobbyist "brought legislative language" directly to Rep. Kim Carver** for HB-570. Carver confirmed this publicly. The original bill:
+Investigative reporting confirmed that a Meta lobbyist "brought legislative language" directly to Rep. Kim Carver for HB-570. Carver confirmed this publicly. The original bill:
 - Required **only app stores** (Google Play, Apple App Store) to verify users' ages
 - Required minor accounts to be linked to parental accounts
 - Required parents to approve all downloads
 - **Did NOT require social media platforms to verify ages within their own apps**
 
-This is the clearest evidence that ASAA legislation is authored by Meta, not by legislators or grassroots advocates.
+The clearest evidence that ASAA legislation is authored by Meta, not by legislators or grassroots advocates.
 
 ### The Morris Amendment Battle
 
@@ -327,7 +322,7 @@ The most notable donor pattern is actually **attorneys** at elite national law f
 
 ### Assessment
 
-The tech industry contribution pattern is distinctive (8% vs. 0-1.4% for peers) but modest in absolute terms. The dual-maxed donor pattern (4 of 8 are tech employees) is more suggestive of coordinated solicitation through professional networks than of a systematic corporate influence campaign. The law firm pattern is actually stronger and may reflect Ball's pre-politics career connections. **The contributions are more consistent with personal network fundraising than with directed corporate coordination**, though the timing concentration in June 2025 warrants further investigation.
+The tech industry contribution pattern is distinctive (8% vs. 0-1.4% for peers) but modest in absolute terms. The dual-maxed donor pattern (4 of 8 are tech employees) points more toward coordinated solicitation through professional networks than a systematic corporate influence campaign. The law firm pattern is actually stronger and likely reflects Ball's pre-politics career connections. The contributions track more with personal network fundraising than directed corporate coordination, though the timing concentration in June 2025 warrants further investigation.
 
 ---
 
@@ -345,8 +340,9 @@ The tech industry contribution pattern is distinctive (8% vs. 0-1.4% for peers) 
 
 ### New Questions Raised
 
-1. **Is NCOSEAction DCA's fiscal sponsor?** May 2025 IRS ruling aligns with DCA's operational timeline. Zero reported revenue could mean first filing hasn't been processed or entity is dormant.
-2. **Did DCA register on For Good using DCI's EIN (39-3684798)?** The "Project" classification and absence of EIN disclosure on the donation page suggest a non-standard registration.
+1. **Is NCOSEAction DCA's fiscal sponsor despite DCA having its own EIN?** DCA's EIN 33-2669790 reports <$25K, meaning operational funding still likely flows through another entity. NCOSEAction (May 2025 IRS ruling) remains the strongest personnel-linked candidate.
+2. **Why does DCA report <$25K when Meta confirmed as funder?** EIN 33-2669790 (990-N, tax year 2024) reports gross receipts under $25,000. Meta's funding, confirmed by Bloomberg and partially admitted by Stefanski under oath, does not appear to flow through this EIN. Where does it go? Candidates: NCOSEAction (88-1180705), STF, or direct payments to DCA staff/consultants that bypass the nonprofit entity entirely.
+3. **Which EIN did DCA use to register on For Good?** The "Project" classification (ID 258136) and absence of EIN disclosure on the donation page remain anomalous even with 33-2669790 now confirmed.
 3. **What is the legal relationship between NCOSEAction and DCA?** Dawn Hawkins chairs DCA and reports to Marcel van der Watt (NCOSEAction principal officer). Is DCA a project of NCOSEAction?
 4. **Does the For Good DAF have expenditure responsibility documentation for DCA grants?** Required if granting to a non-c3.
 5. **What are the specific lobbying topics within STF's $31M lobbying budget?** Aggregate reporting conceals whether any portion relates to age verification or tech policy.
@@ -378,3 +374,4 @@ The tech industry contribution pattern is distinctive (8% vs. 0-1.4% for peers) 
 ### Campaign Finance
 - Colorado TRACER bulk data: tracer.sos.colorado.gov/PublicSite/DataDownload.aspx
 - 2025 and 2026 ContributionData.csv files
+

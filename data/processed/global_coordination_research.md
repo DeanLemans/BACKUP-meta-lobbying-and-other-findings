@@ -284,3 +284,4 @@ In the US, Meta's preferred model (ASAA) shifts the compliance burden to **app s
 - Euronews (tech lobbying record): https://www.euronews.com/next/2025/10/29/big-tech-spending-on-brussels-lobbying-hits-record-high-report-claims
 - Daniel Law (Brazil ECA effective date): https://www.daniel-ip.com/en/client-alert/brazils-eca-digital-expected-to-enter-into-force-on-march-17-2026/
 - Tom's Guide (global timeline): https://www.tomsguide.com/computing/vpns/online-age-verification-a-complete-global-timeline
+

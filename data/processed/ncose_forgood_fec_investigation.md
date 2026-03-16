@@ -8,13 +8,13 @@
 
 ## Executive Summary
 
-Three parallel investigations produced one breakthrough finding, two definitive negatives, and critical new context:
+Three parallel investigations produced one breakthrough finding, two definitive negatives, and critical context:
 
-1. **NCOSE Schedule R reveals a two-entity evolution** — the original "NCOSE Action" (EIN 86-2458921, c4→c3) was replaced by a new "Institute for Public Policy" (EIN 88-1180705, c4). All 19 transaction indicators between NCOSE and the Institute are marked "No." DCA does not appear on any NCOSE Schedule R. However, NCOSE's lobbying spend **tripled** ($78K→$204K) concurrent with the ASAA push.
+1. NCOSE Schedule R reveals a two-entity evolution. The original "NCOSE Action" (EIN 86-2458921, c4 to c3) was replaced by a new "Institute for Public Policy" (EIN 88-1180705, c4). All 19 transaction indicators between NCOSE and the Institute are marked "No." DCA does not appear on any NCOSE Schedule R. NCOSE's lobbying spend tripled ($78K to $204K) concurrent with the ASAA push.
 
-2. **For Good DAF is a dead end** — 59,736 grant recipients across 5 years (~$1.73 billion) searched. **Zero** matches for DCA, DCI, NCOSE, NCOSEAction, or any related entity. DCA's donation page exists on the platform, but no money has flowed through the DAF to any investigation target.
+2. For Good DAF is a dead end. 59,736 grant recipients across 5 years (~$1.73 billion) searched. Zero matches for DCA, DCI, NCOSE, NCOSEAction, or any related entity. DCA's donation page exists on the platform, but no money has flowed through the DAF to any investigation target.
 
-3. **Meta's super PACs are state-level entities, not FEC-registered** — deliberately structured to scatter filings across state ethics commissions rather than the searchable FEC database. Forge the Future's website explicitly lists "empowering parents with oversight of children's online activities" as a policy priority — ASAA-aligned language.
+3. Meta's super PACs are state-level entities, not FEC-registered. Deliberately structured to scatter filings across state ethics commissions rather than the searchable FEC database. Forge the Future's website explicitly lists "empowering parents with oversight of children's online activities" as a policy priority: ASAA-aligned language.
 
 ---
 
@@ -61,15 +61,11 @@ The entity publicly branded as "NCOSEAction" on NCOSE's website maps to **two di
 - No loans or loan guarantees
 - No transfers of any kind
 
-This is notable because:
-1. NCOSE's website describes NCOSEAction as "created by NCOSE"
-2. Schedule R lists the Institute as a "controlled organization" with NCOSE as "direct controlling entity"
-3. Marcel van der Watt is Senior VP at NCOSE AND principal officer of the Institute
-4. Yet NCOSE reports zero transactions of any kind with its own controlled c4
+Notable because NCOSE's website describes NCOSEAction as "created by NCOSE." Schedule R lists the Institute as a "controlled organization" with NCOSE as "direct controlling entity." Marcel van der Watt is Senior VP at NCOSE and principal officer of the Institute. Yet NCOSE reports zero transactions of any kind with its own controlled c4.
 
 ### DCA Is Not on Schedule R
 
-**DCA does not appear as a related organization on any NCOSE 990 filing.** If DCA were formally a project of NCOSEAction or the Institute for Public Policy, it would likely not trigger Schedule R disclosure (fiscal sponsorships within a c4 are not "related organizations" in the IRS sense). However, the complete absence of DCA from all NCOSE filings — including narrative program descriptions — is significant.
+DCA does not appear as a related organization on any NCOSE 990 filing. If DCA were formally a project of NCOSEAction or the Institute for Public Policy, it would not trigger Schedule R disclosure (fiscal sponsorships within a c4 are not "related organizations" in the IRS sense). The complete absence of DCA from all NCOSE filings, including narrative program descriptions, is significant regardless.
 
 ### NCOSE Lobbying Spending Tripled
 
@@ -80,11 +76,11 @@ This is notable because:
 | FY2023 | $78,000 | — | — |
 | **FY2024** | **$204,000** | **$125,700** | **$78,300** |
 
-The 162% increase from FY2023 to FY2024 is concurrent with DCA's launch (~December 2024) and the ASAA legislative push. However, NCOSE's Part III program descriptions do not mention ASAA, age verification, app stores, or DCA.
+The 162% increase from FY2023 to FY2024 is concurrent with DCA's launch (around December 2024) and the ASAA legislative push. NCOSE's Part III program descriptions do not mention ASAA, age verification, app stores, or DCA.
 
 ### Casey Stefanski Never Appears on NCOSE's 990
 
-Despite reportedly working at NCOSE for 10 years as Senior Director of Global Partnerships, **Casey Stefanski is not listed on any of the four NCOSE 990 filings examined** (Part VII officers, directors, trustees, key employees, or highest compensated). This means she was not among the five highest-compensated employees and was not an officer or key employee during her tenure.
+Despite reportedly working at NCOSE for 10 years as Senior Director of Global Partnerships, Casey Stefanski is not listed on any of the four NCOSE 990 filings examined (Part VII officers, directors, trustees, key employees, or highest compensated). She was not among the five highest-compensated employees and was not an officer or key employee during her tenure.
 
 ### NCOSE Officers and Key Employees (FY2024)
 
@@ -131,6 +127,7 @@ Across all five years and 59,736 grant recipients:
 | Search Term | Result |
 |-------------|--------|
 | "Digital Childhood Alliance" | NOT FOUND |
+| EIN 33-2669790 (DCA — found 2026-03-16) | NOT FOUND |
 | "Digital Childhood Institute" | NOT FOUND |
 | EIN 39-3684798 (DCI) | NOT FOUND |
 | "NCOSE" / "National Center on Sexual Exploitation" | NOT FOUND |
@@ -151,14 +148,9 @@ Full-text search of every XML element (not just Schedule I) confirmed zero match
 
 ### Implications
 
-DCA's donation page exists on the NFG/Bonterra platform (`digitalchildhoodalliance.networkforgood.com`), but **no money has flowed through the For Good DAF to DCA, DCI, NCOSE, or any related entity during 2020-2024.** This means either:
+DCA's donation page exists on the NFG/Bonterra platform (`digitalchildhoodalliance.networkforgood.com`), but no money has flowed through the For Good DAF to DCA, DCI, NCOSE, or any related entity during 2020-2024. Four explanations: the donation page was set up but has processed zero or negligible donations; donations flow through a different mechanism than the For Good DAF (direct Bonterra payment processing that bypasses the DAF); the page is cosmetic and DCA's actual funding comes from Meta and other sources; or donations are aggregated under a different entity's EIN not yet identified.
 
-1. The donation page was set up but has processed zero or negligible donations
-2. Donations flow through a different mechanism than the For Good DAF (e.g., direct Bonterra payment processing that bypasses the DAF)
-3. The page is cosmetic — DCA's actual funding comes from Meta and/or other sources, not small-dollar DAF donations
-4. Donations are aggregated under a different entity's EIN that we haven't identified
-
-The most likely explanation: **the NFG donation page is window dressing** — it provides the appearance of grassroots fundraising while DCA's actual operating budget comes from Meta (per Bloomberg) and potentially from NCOSE/NCOSEAction institutional support.
+The NFG donation page is window dressing. It provides the appearance of grassroots fundraising while DCA's actual operating budget comes from Meta (per Bloomberg) and from NCOSE/NCOSEAction institutional support.
 
 ---
 
@@ -166,7 +158,7 @@ The most likely explanation: **the NFG donation page is window dressing** — it
 
 ### Why They Don't Appear in FEC Searches
 
-Meta's super PACs are structured as **nonfederal committees** registered with state ethics commissions. This is a deliberate transparency strategy: by avoiding FEC registration, the PACs' filings are scattered across individual state databases rather than centralized in the searchable federal system.
+Meta's super PACs are structured as nonfederal committees registered with state ethics commissions. By avoiding FEC registration, the PACs' filings scatter across individual state databases rather than centralizing in the searchable federal system.
 
 The only Meta committee in the FEC database:
 - **META PLATFORMS, INC. PAC** (Committee ID: C00502906) — traditional corporate PAC, DC-based, treasurer Ritika Robertson
@@ -209,7 +201,7 @@ Forge the Future's website (texasforgefuturepac.com) lists three policy prioriti
 2. **"Empowering parents with oversight of children's online activities across devices and digital environments"**
 3. "Favorable regulatory conditions to bring AI products to market"
 
-Priority #2 is **functionally identical to ASAA's framing** — parental oversight of children's online activities through device/app store-level controls. This is the first direct evidence that Meta's super PAC spending is ideologically connected to the ASAA legislative campaign.
+Priority #2 is functionally identical to ASAA's framing: parental oversight of children's online activities through device/app store-level controls. First direct evidence that Meta's super PAC spending is ideologically connected to the ASAA legislative campaign.
 
 ### Known Candidates Supported
 
@@ -242,7 +234,7 @@ Of 20 Meta-backed candidates in Texas and North Carolina primaries, only one los
 | Matt Ball | Colorado | No Meta PAC activity in Colorado |
 | Amy Paschal | Colorado | No Meta PAC activity in Colorado |
 
-**Critical caveat:** Forge the Future supported at least two unnamed Texas state Senate candidates. Angela Paxton is a sitting state senator and ASAA sponsor. Whether she was among the unnamed beneficiaries cannot be determined from available reporting.
+Critical caveat: Forge the Future supported at least two unnamed Texas state Senate candidates. Angela Paxton is a sitting state senator and ASAA sponsor. Whether she was among the unnamed beneficiaries cannot be determined from available reporting.
 
 ### Key Personnel
 
@@ -253,16 +245,11 @@ Of 20 Meta-backed candidates in Texas and North Carolina primaries, only one los
 | Brian Baker | Republican strategist | Co-leads ATEP |
 | Hilltop Public Solutions | Dem consulting firm | Co-leads ATEP (also involved with DCA messaging) |
 
-**Hilltop Public Solutions connection:** This firm co-leads ATEP (Meta's $45M super PAC) AND was previously identified as involved in DCA's messaging coordination. This is the first confirmed overlap between Meta's super PAC operation and the DCA astroturf campaign.
+Hilltop Public Solutions co-leads ATEP (Meta's $45M super PAC) and was previously identified as involved in DCA's messaging coordination. First confirmed overlap between Meta's super PAC operation and the DCA astroturf campaign.
 
 ### Nonfederal Structure as Transparency Strategy
 
-By registering PACs at the state level:
-- Filings are scattered across 50 separate state databases
-- No centralized search like FEC.gov
-- Different states have different disclosure timelines and formats
-- Researchers must individually query each state's ethics commission
-- This creates **structural opacity by fragmentation**, even when each individual filing is technically public
+By registering PACs at the state level, filings scatter across 50 separate state databases. No centralized search like FEC.gov. Different states have different disclosure timelines and formats. Researchers must individually query each state's ethics commission. Structural opacity by fragmentation, even when each individual filing is technically public.
 
 ---
 
@@ -270,12 +257,9 @@ By registering PACs at the state level:
 
 ### The Hilltop Connection
 
-**Hilltop Public Solutions** appears in three separate contexts:
-1. **Co-leads ATEP** ($45M Meta super PAC) — the bipartisan Democratic partner
-2. **Involved in DCA messaging** — identified in prior investigative reporting
-3. **Connected to ATEP super PAC** — which funds Forge the Future, whose policy priorities mirror ASAA
+Hilltop Public Solutions appears in three separate contexts: co-leads ATEP ($45M Meta super PAC) as the bipartisan Democratic partner; involved in DCA messaging per prior investigative reporting; and connected to the ATEP super PAC, which funds Forge the Future, whose policy priorities mirror ASAA.
 
-This makes Hilltop a **bridging entity** between Meta's super PAC operation and the DCA advocacy campaign — the first firm connected to both tracks.
+Hilltop is a bridging entity between Meta's super PAC operation and the DCA advocacy campaign. First firm connected to both tracks.
 
 ### The NCOSE → NCOSEAction → DCA Personnel Chain
 
@@ -293,7 +277,7 @@ Marcel van der Watt
         └── Current: Executive Director, DCA
 ```
 
-Despite this direct personnel chain, NCOSE reports **zero transactions** with NCOSEAction on Schedule R, and DCA does not appear on any NCOSE filing.
+Despite this direct personnel chain, NCOSE reports zero transactions with NCOSEAction on Schedule R, and DCA does not appear on any NCOSE filing.
 
 ### The Lobbying Spend Timing
 
@@ -303,7 +287,7 @@ Despite this direct personnel chain, NCOSE reports **zero transactions** with NC
 | Meta (federal) | $24.4M | $26.3M | +8% |
 | STF | — | $31M | — |
 
-NCOSE's lobbying tripled in the same period that DCA launched and ASAA passed in three states. The coincidence of timing — combined with the personnel overlap — is notable, even though NCOSE's program descriptions don't mention ASAA.
+NCOSE's lobbying tripled in the same period DCA launched and ASAA passed in three states. The timing, combined with the personnel overlap, is notable even though NCOSE's program descriptions don't mention ASAA.
 
 ---
 
@@ -319,7 +303,9 @@ NCOSE's lobbying tripled in the same period that DCA launched and ASAA passed in
 | Confirmed DCA connection | No | Personnel chain only | Donation page exists, no money flows |
 | Transaction disclosure | Zero child safety keywords | Zero transactions with NCOSE | All grants unrestricted to c3s |
 
-**Assessment:** For Good DAF is **ruled out** as a funding pathway. STF remains the strongest candidate for financial capacity. NCOSEAction remains the strongest for personnel proximity. The most likely model: **Meta funds DCA directly** (per Bloomberg), with NCOSEAction/NCOSE providing institutional infrastructure (staff, expertise, coalition network) rather than acting as a fiscal pass-through.
+**UPDATE (2026-03-16):** DCA EIN 33-2669790 has been confirmed via eintaxid.com. "Digital Childhood Alliance Inc," Delaware, officer Melissa McKay, same address as DCI (213 N Market St PMB 1039, Wilmington DE). Tax year 2024: **gross receipts under $25,000.** 990-N e-Postcard filer. Not on ProPublica, GuideStar, or Charity Navigator. The <$25K threshold means the real operational budget does NOT flow through this EIN, reinforcing the assessment below.
+
+**Assessment:** For Good DAF is **ruled out** as a funding pathway. DCA's own EIN (33-2669790) reports <$25K, ruling it out as the primary funding vehicle. STF remains the strongest candidate for financial capacity. NCOSEAction remains the strongest for personnel proximity. The most likely model: **Meta funds DCA directly** (per Bloomberg), with NCOSEAction/NCOSE providing institutional infrastructure (staff, expertise, coalition network) rather than acting as a fiscal pass-through. The EIN exists to satisfy the website's claim of being "a registered nonprofit 501(c)(4)" while actual funding enters through undisclosed channels.
 
 ---
 
@@ -345,3 +331,4 @@ NCOSE's lobbying tripled in the same period that DCA launched and ASAA passed in
 - Texas Ethics Commission: Forge the Future Project with Meta registration
 - Illinois State Board of Elections: Making Our Tomorrow filings
 - Forge the Future website: texasforgefuturepac.com
+
