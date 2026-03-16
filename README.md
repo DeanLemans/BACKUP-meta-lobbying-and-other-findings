@@ -1,3 +1,10 @@
+Help keep the server running!
+ 
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal&style=for-the-badge)](https://www.paypal.com/ncp/payment/RUJTVLNUCP3UU)
+ 
+Thank you for your support.
+
+
 # Meta Platforms: Lobbying, Dark Money, and the App Store Accountability Act
 
 An open-source intelligence investigation into how Meta Platforms built a multi-channel influence operation to pass age verification laws that shift regulatory burden from social media platforms onto Apple and Google's app stores.
